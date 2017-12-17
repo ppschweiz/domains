@@ -5,8 +5,6 @@ abstimmung.piratenpartei.ch.		      600 IN A          78.46.227.181
 api.piratenpartei.ch.			      600 IN CNAME	traefik.piratenpartei.ch.
 archive-1-p.piratenpartei.ch.		      600 IN A		172.17.2.78
 idapi.piratenpartei.ch.			      600 IN A		78.46.227.180
-coreos-1-p.piratenpartei.ch.		      600 IN A		172.17.2.10
-coreos-2-p.piratenpartei.ch.		      600 IN A		172.17.2.11
 coreos-1-t.piratenpartei.ch.		      600 IN A		172.17.100.10
 coreos-2-t.piratenpartei.ch.		      600 IN A		172.17.100.11
 coreos-3-t.piratenpartei.ch.		      600 IN A		172.17.100.12
