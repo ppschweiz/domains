@@ -13,4 +13,3 @@ mx("mail", "piratenpartei.ch", 10)
 mx("lists", "piratenpartei.ch", 10)
 
 pps_sections("piratenpartei.ch")
-
