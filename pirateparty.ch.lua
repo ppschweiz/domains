@@ -7,8 +7,6 @@ a("mail", "149.126.4.43")
 a("lists", "149.126.4.43")
 
 mx(_a, "piratenpartei.ch", 10)
-mx("www", "piratenpartei.ch", 10)
-mx("archive", "piratenpartei.ch", 10)
 mx("mail", "piratenpartei.ch", 10)
 mx("lists", "piratenpartei.ch", 10)
 
